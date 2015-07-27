@@ -1,4 +1,4 @@
-package com.home.dataStructures;
+package com.home.datastructures;
 
 public class Stack {
 
