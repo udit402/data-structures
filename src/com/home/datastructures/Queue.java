@@ -1,6 +1,6 @@
 package com.home.datastructures;
 
-public interface Stack<E> extends Collection<E> {
+public interface Queue<E> extends Collection<E> {
 
 	void push(E data) throws Exception;
 

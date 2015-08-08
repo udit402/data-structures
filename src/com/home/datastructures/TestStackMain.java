@@ -13,7 +13,7 @@ public class TestStackMain {
 		// Stack stack = new Stack(0);
 
 		// Instantiating the stack
-		Stack stack = new Stack(5);
+		LinkedStack<Integer> stack = new LinkedStack<>(5);
 
 		System.out.println("----------------------------------------------");
 		System.out.println("After instantiation:");
